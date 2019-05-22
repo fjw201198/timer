@@ -1,3 +1,4 @@
+// package timer defined some convince method to add/delete timeout event.
 package timer
 
 import (
